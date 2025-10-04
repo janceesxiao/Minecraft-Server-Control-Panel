@@ -1,13 +1,9 @@
-# Minecraft-Server-Control-Panel
 <div align="center">
 
 # Minecraft Server Control Panel
 
 A modern, feature-rich Minecraft server management tool built with Python and tkinter, featuring a beautiful Windows 11-style interface with smooth animations and professional styling.
 
-![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 </div>
 
@@ -50,5 +46,5 @@ A modern, feature-rich Minecraft server management tool built with Python and tk
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/minecraft-server-control-panel.git
+git clone https://github.com/janceesxiao/minecraft-server-control-panel.git
 cd minecraft-server-control-panel
